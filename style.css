@@ -1,0 +1,39 @@
+body {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+.title {
+  margin-left: 300px;
+}
+.span {
+  display: block;
+  width: 500px;
+  margin: auto;
+  text-align: center;
+}
+.header {
+  max-width: 900px;
+  margin: auto;
+}
+.header-img {
+  margin: 30px 300px;
+}
+.list {
+  list-style-type: none;
+  margin: 30px 300px;
+}
+.google {
+  margin: 30px 270px ;
+}
+.google-button {
+  padding: 16px 35px;
+  background: rgb(3, 148, 167);
+  border: 1px solid black;
+  border-radius: 6px;
+  margin: 30px 380px ;
+}
+.google-button:hover {
+  background-color: rgb(19, 32, 32);
+  border: 2px solid wheat;
+  color: white;
+  cursor: pointer;
+}
